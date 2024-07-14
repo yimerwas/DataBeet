@@ -1,0 +1,13 @@
+---
+title: "Welcome to My Personal Website"
+---
+
+## Summary
+
+I am a highly motivated and collaborative Principal CMC Statistician with a PhD in Statistics and six years of experience working in the Johnson \& Johnson Innovative Medicine. My research interest focuses on the use of linear and non-linear mixed-effect models, univariate and multivariate modeling approaches, Bayesian inference and predictions, advanced Bayesian kinetic models, Bayesian informative priors, and other advanced statistical techniques for product development and manufacturing. I am a first point of contact and focus area representative for process validation  and stability study to support small molecule programs. 
+
+
+## Latest Work
+
+- **Project 1**
+- **Project 2**

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This website serves as a platform to share my personal insights and research in the field of statistics. Please note that all posts and opinions expressed here are my own and do not reflect the views of Johnson & Johnson or any other organization. Confidential information and proprietary content are not presented on this website."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Personal Website",
+    "section": "",
+    "text": "I am a highly motivated and collaborative Principal CMC Statistician with a PhD in Statistics and six years of experience working in the Johnson & Johnson Innovative Medicine. My research interest focuses on the use of linear and non-linear mixed-effect models, univariate and multivariate modeling approaches, Bayesian inference and predictions, advanced Bayesian kinetic models, Bayesian informative priors, and other advanced statistical techniques for product development and manufacturing. I am a first point of contact and focus area representative for process validation and stability study to support small molecule programs."
+  },
+  {
+    "objectID": "index.html#summary",
+    "href": "index.html#summary",
+    "title": "Welcome to My Personal Website",
+    "section": "",
+    "text": "I am a highly motivated and collaborative Principal CMC Statistician with a PhD in Statistics and six years of experience working in the Johnson & Johnson Innovative Medicine. My research interest focuses on the use of linear and non-linear mixed-effect models, univariate and multivariate modeling approaches, Bayesian inference and predictions, advanced Bayesian kinetic models, Bayesian informative priors, and other advanced statistical techniques for product development and manufacturing. I am a first point of contact and focus area representative for process validation and stability study to support small molecule programs."
+  },
+  {
+    "objectID": "index.html#latest-work",
+    "href": "index.html#latest-work",
+    "title": "Welcome to My Personal Website",
+    "section": "Latest Work",
+    "text": "Latest Work\n\nProject 1\nProject 2"
+  }
+]

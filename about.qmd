@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+This website serves as a platform to share my personal insights and research in the field of statistics. Please note that all posts and opinions expressed here are my own and do not reflect the views of Johnson & Johnson or any other organization. Confidential information and proprietary content are not presented on this website.
