@@ -3,18 +3,37 @@ project:
   output-dir: docs
 
 website:
-  title: "DataBeet"
+  title: "yimerwas.github.io"
+  description: "A personal website"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/yimerwas
+      - icon: linkedin
+        href: https://www.linkedin.com/in/yimerwas/
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cosmo
+      dark: darkly
     css: styles.css
     toc: true
+    toc-title: "Table of Contents"
+    toc-depth: 2
+    code-fold: true
+    number-sections: true
 
-
+footer:
+  - text: "© 2024 DataBeet"
+  - text: "All posts reflect my personal views and not those of my employer. Confidential information is not presented on this website."
 
