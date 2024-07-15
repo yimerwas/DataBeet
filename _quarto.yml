@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "DataBeet"
+  title: "yimerwas.github.io"
   navbar:
     left:
       - href: index.qmd
