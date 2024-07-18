@@ -33,7 +33,3 @@ format:
     code-fold: true
     number-sections: true
 
-footer:
-  - text: "© 2024 DataBeet"
-  - text: "All posts reflect my personal views and not those of my employer. Confidential information is not presented on this website."
-

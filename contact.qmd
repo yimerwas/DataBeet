@@ -2,6 +2,4 @@
 title: "Contact"
 ---
 
-## Contact
-
-Feel free to reach out to me via email at [yimerwas@gmail.com](mailto:yimerwas@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yimerwas/).
+Coming soon

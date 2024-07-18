@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Welcome to My Personal Website",
     "section": "",
-    "text": "I am a highly motivated and collaborative Principal CMC Statistician with a PhD in Statistics and six years of experience working in the Johnson & Johnson Innovative Medicine. My research interest focuses on the use of linear and non-linear mixed-effect models, univariate and multivariate modeling approaches, Bayesian inference and predictions, advanced Bayesian kinetic models, Bayesian informative priors, and other advanced statistical techniques for product development and manufacturing. I am a first point of contact and focus area representative for process validation and stability study to support small molecule programs."
+    "text": "I am a highly motivated and collaborative Principal Statistician with a PhD in Statistics and six years of experience working in the Johnson & Johnson Innovative Medicine. My research interest focuses on the use of linear and non-linear mixed-effect models, univariate and multivariate modeling approaches, Bayesian inference and predictions, advanced Bayesian kinetic models, Bayesian informative priors, and other advanced statistical techniques for product development and manufacturing. I am a first point of contact and focus area representative for process validation and stability study to support small molecule programs."
   },
   {
     "objectID": "index.html#summary",
     "href": "index.html#summary",
     "title": "Welcome to My Personal Website",
     "section": "",
-    "text": "I am a highly motivated and collaborative Principal CMC Statistician with a PhD in Statistics and six years of experience working in the Johnson & Johnson Innovative Medicine. My research interest focuses on the use of linear and non-linear mixed-effect models, univariate and multivariate modeling approaches, Bayesian inference and predictions, advanced Bayesian kinetic models, Bayesian informative priors, and other advanced statistical techniques for product development and manufacturing. I am a first point of contact and focus area representative for process validation and stability study to support small molecule programs."
+    "text": "I am a highly motivated and collaborative Principal Statistician with a PhD in Statistics and six years of experience working in the Johnson & Johnson Innovative Medicine. My research interest focuses on the use of linear and non-linear mixed-effect models, univariate and multivariate modeling approaches, Bayesian inference and predictions, advanced Bayesian kinetic models, Bayesian informative priors, and other advanced statistical techniques for product development and manufacturing. I am a first point of contact and focus area representative for process validation and stability study to support small molecule programs."
   },
   {
     "objectID": "index.html#latest-work",
@@ -26,5 +26,19 @@
     "title": "Welcome to My Personal Website",
     "section": "Latest Work",
     "text": "Latest Work\n\nProject 1\nProject 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Coming soon"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Coming soon"
   }
 ]

@@ -1,1 +1,14 @@
-/* css styles */
+/* Custom styles for DataBeet */
+
+/* Example: Change the background color of the navbar */
+.navbar {
+  background-color: #0056b3;
+}
+
+/* Example: Customize the footer */
+footer {
+  background-color: #f8f9fa;
+  padding: 10px;
+  text-align: center;
+  font-size: 0.9em;
+}
